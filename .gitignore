@@ -1,0 +1,5 @@
+scratch.py
+data/*
+geckodriver.log
+.idea
+*.iml
