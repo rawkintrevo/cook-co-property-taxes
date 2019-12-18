@@ -27,5 +27,6 @@ in the mean time- if you find it useful, give it a star.
 
 ### Requirements
 
+- Python >= 3.7
 - Selenium Web Driver
-- Firefox
+- Firefox (geckodriver)
